@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/-Start-test-driven-development.iml" filepath="$PROJECT_DIR$/.idea/-Start-test-driven-development.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap01-idea/chap01-idea.iml" filepath="$PROJECT_DIR$/chap01-idea/chap01-idea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap02/chap02.iml" filepath="$PROJECT_DIR$/chap02/chap02.iml" />
+    </modules>
+  </component>
+</project>
